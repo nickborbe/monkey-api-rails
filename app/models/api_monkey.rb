@@ -1,0 +1,2 @@
+class ApiMonkey < ApplicationRecord
+end
