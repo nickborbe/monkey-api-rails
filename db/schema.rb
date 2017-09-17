@@ -10,11 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170914183723) do
+ActiveRecord::Schema.define(version: 20170917015027) do
 
   create_table "api_monkeys", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "name"
+    t.string "height"
+    t.string "weight"
+    t.string "locations_of_origin"
+    t.string "diet"
+    t.string "description"
+    t.string "social_order"
   end
 
 end
