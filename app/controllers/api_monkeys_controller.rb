@@ -5,6 +5,7 @@ class ApiMonkeysController < ApplicationController
   # GET /api_monkeys.json
   def index
     @api_monkeys = ApiMonkey.all
+    @api_monkeys.to_json
   end
 
   # GET /api_monkeys/1
