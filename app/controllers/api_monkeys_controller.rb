@@ -11,10 +11,10 @@ class ApiMonkeysController < ApplicationController
 
   # GET /api_monkeys/1
   # GET /api_monkeys/1.json
-  def show
-    @id = params[:id]
-    @the_monkey = ApiMonkey.where()
-  end
+  # def show
+  #   the_monkey = ApiMonkey.find_by(id: params[:id])
+  #   render json: the_monkey
+  # end
 
   # GET /api_monkeys/new
   def new
