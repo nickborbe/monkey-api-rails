@@ -4,13 +4,16 @@ class ApiMonkeysController < ApplicationController
   # GET /api_monkeys
   # GET /api_monkeys.json
   def index
-    @api_monkeys = ApiMonkey.all
-    @api_monkeys.to_json
+    api_monkeys = ApiMonkey.all
+    render json: api_monkeys
+
   end
 
   # GET /api_monkeys/1
   # GET /api_monkeys/1.json
   def show
+    @id = params[:id]
+    @the_monkey = ApiMonkey.where()
   end
 
   # GET /api_monkeys/new
