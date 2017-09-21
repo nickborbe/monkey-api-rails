@@ -9,7 +9,7 @@ ApiMonkey.create(name: "Marmoset", height: "7.5in", weight: "9oz",
 locations_of_origin: "Bolivia, Brazil, Colombia, Ecuador, Paraguay, and Peru.", diet: "Mostly Tree Bark. Also fruit, seeds, flowers, fungi, nectar, snails, lizards, tree frogs, bird eggs, nestlings, and infant mammals."
 description: "The marmosets also known as zaris (/ˈmɑːrməˌzɛts, -ˌsɛts/[3][4]) are 22 New World monkey species of the genera Callithrix, Cebuella, Callibella, and Mico. All four genera are part of the biological family Callitrichidae. The term marmoset is also used in reference to the Goeldi's marmoset, Callimico goeldii, which is closely related.
 Most marmosets are about 20 centimetres (8 in) long. Relative to other monkeys, they show some apparently primitive features: they have claws rather than nails, and tactile hairs on their wrists. They lack wisdom teeth, and their brain layout seems to be relatively primitive. Their body temperature is unusually variable, changing by up to 4 °C (7 °F) in a day.",
-social_order: "monogamy, polygyny, and polyandry - cooperative in raising offspring", lifespan: "12 Years", latin_name: "Callithrix jacchus", seeded?: true, family: "Callitrichidae")
+social_order: "monogamy, polygyny, and polyandry - cooperative in raising offspring", lifespan: "12 Years", latin_name: "Callithrix", seeded?: true, family: "Callitrichidae")
 
 
 ApiMonkey.create(name: "Tamarin", height: "5-12in", weight: "7-32oz",
@@ -21,22 +21,22 @@ ApiMonkey.create(name: "Squirrel Monkey", height: "1ft", weight: "0.5lb",
 locations_of_origin: "Amazon, Costa Rica, Panama", diet: "Mostly fruit and insects"
 description: "Squirrel monkey fur is short and close, coloured black at the shoulders and yellowish orange on its back and extremities. Their throats and ears are white, and their mouths are black. The upper parts of their heads are hairy. This black-and-white face gives them the name 'death's head monkey' in several Germanic languages.
 Like most of their New World monkey relatives, squirrel monkeys are diurnal and arboreal. Unlike other New World monkeys, their tail is not used for climbing but as a kind of 'balancing pole' and also as a tool. Their movements in the branches can be very rapid.",
-social_order: "Multi-male/multi-female groups with up to 500 members", lifespan: "15-20 years", latin_name: "Saimiriinae", seeded?: true, family: "Cebidae")
+social_order: "Multi-male/multi-female groups with up to 500 members", lifespan: "15-20 years", latin_name: "Saimiri", seeded?: true, family: "Cebidae")
 
 ApiMonkey.create(name: "Capuchin Monkey", height: "12-22in", weight: "2-3lbs",
 locations_of_origin: "Central America and South America as far south as northern Argentina", diet: "Omnivorous - they feed on fruits, nuts and seeds, berries, insects, lizards, rodents and small birds"
 description: "Capuchins are often considered the most intelligent New World monkeys and are often used in laboratories. The tufted capuchin is especially noted for its long-term tool usage",
-social_order: "Groups of 10 to 35 individuals.  Usually 1 dominant male, some Capuchin species have 1 dominant female as well.", lifespan: "22 years", latin_name: "Cebinae", seeded?: true, family: "Cebidae")
+social_order: "Groups of 10 to 35 individuals.  Usually 1 dominant male, some Capuchin species have 1 dominant female as well.", lifespan: "22 years", latin_name: "Cebus", seeded?: true, family: "Cebidae")
 
 ApiMonkey.create(name: "Spider Monkey", height: "26in", weight: "20lbs",
 locations_of_origin: "tropical forests of Central and South America, from southern Mexico to Brazil", diet: ""
 description: "Spider monkeys are among the largest New World monkeys; black-headed spider monkeys, the largest spider monkey, have an average weight of 11 kilograms (24 lb) for males and 9.66 kg (21.3 lb) for females.[9][10] Disproportionately long, spindly limbs inspired the spider monkey's common name. Their deftly prehensile tails,[11] which may be up to 89 cm (35 in) long, have very flexible, hairless tips and skin grooves similar to fingerprints. This adaptation to their strictly arboreal lifestyle serves as a fifth hand.[12] When the monkey walks, its arms practically drag on the ground. Unlike many monkeys, they do not use their arms for balance when walking, instead relying on their tails. The hands are long, narrow and hook-like, and have reduced or non-existent thumbs.[13] The fingers are elongated and recurved.",
-social_order: "Spider monkeys form loose groups of 15 to 25 individuals,[21] but can have even 30[22] to 40.[23] During the day, groups break up into subgroups of two to eight animals. This social structure (fission-fusion) is found in only two other types of primates: chimpanzees and Homo sapiens", lifespan: "40 years", latin_name: "Atelinae", seeded?: true, family: "Atelidae")
+social_order: "Spider monkeys form loose groups of 15 to 25 individuals,[21] but can have even 30[22] to 40.[23] During the day, groups break up into subgroups of two to eight animals. This social structure (fission-fusion) is found in only two other types of primates: chimpanzees and Homo sapiens", lifespan: "40 years", latin_name: "Ateles", seeded?: true, family: "Atelidae")
 
 ApiMonkey.create(name: "Howler Monkey", height: "22-36in", weight: "22lbs",
 locations_of_origin: " South and Central American forests", diet: "Howlers eat mainly top canopy leaves, together with fruit, buds, flowers, and nuts."
 description: " among the largest of the New World monkeys and one of only a few nest-building monkeys. Fifteen species are currently recognized. Previously classified in the family Cebidae, they are now placed in the family Atelidae. These monkeys are native to South and Central American forests. Threats to howler monkeys include human predation, habitat destruction and being captured for pets or zoo animals. These monkeys are famous for their loud howls, which can travel three miles through dense rainforest. Unlike most New World monkeys, in which one sex remains in natal groups, juveniles of both sexes emigrate from their natal groups,[5] such that howler monkeys could spend the majority of their adult lives in association with unrelated monkeys.",
-social_order: "Groups of six to 15 animals, with one to three adult males and multiple females", lifespan: "15-20 years", latin_name: "Alouattinae", seeded?: true, family: "Atelidae")
+social_order: "Groups of six to 15 animals, with one to three adult males and multiple females", lifespan: "15-20 years", latin_name: "Alouatta", seeded?: true, family: "Atelidae")
 
 ApiMonkey.create(name: "Night Monkey", height: "12-16in", weight: "2lbs",
 locations_of_origin: " Panama, Colombia, Ecuador, Peru, Brazil, Paraguay, Argentina, Bolivia, and Venezuela.", diet: "Mostly fruit, and leaves and insects."
