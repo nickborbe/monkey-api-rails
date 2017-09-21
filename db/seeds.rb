@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+ApiMonkey.create(name
+height
+weight
+locations_of_origin
+diet
+description
+social_order
+lifespan
+latin_name
+seeded?
+sub_family)
