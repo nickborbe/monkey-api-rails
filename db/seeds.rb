@@ -17,16 +17,16 @@ locations_of_origin: "Colombia, the Amazon basin, and the Guianas", diet: "Omniv
 description: "Different tamarin species vary considerably in appearance, ranging from nearly all black through mixtures of black, brown and white. Mustache-like facial hairs are typical for many species. Their body size ranges from 13 to 30 cm (5.1 to 11.8 in) (plus a 25-to-44 cm-long (9.8-to-17.3 in) tail) and they weigh from 220 to 900 grams (7.8 to 31.7 oz). Tamarins differ from marmosets primarily in having lower canine teeth that are clearly longer than the incisors. In captivity, tamarins can live for up to 18 years. They are diurnal and arboreal, and run and jump quickly through the trees. Tamarins live together in groups of up to 40 members consisting of one or more families. More frequently, though, groups are composed of just three to nine members.",
 social_order: "Groups of 3-40 members, composed of one, or several families.  The adult males, subadults, and juveniles in the group assist with caring for the young.", lifespan: "15 years", latin_name: "Saguinus", seeded?: true, sub_family: "Callitrichidae")
 
-ApiMonkey.create(name: "Squirrel Monkeys", height: "1 ft", weight: ".5 lb",
+ApiMonkey.create(name: "Squirrel Monkeys", height: "1ft", weight: "0.5lb",
 locations_of_origin: "Amazon, Costa Rica, Panama", diet: "Mostly fruit and insects"
 description: "Squirrel monkey fur is short and close, coloured black at the shoulders and yellowish orange on its back and extremities. Their throats and ears are white, and their mouths are black. The upper parts of their heads are hairy. This black-and-white face gives them the name 'death's head monkey' in several Germanic languages.
 Like most of their New World monkey relatives, squirrel monkeys are diurnal and arboreal. Unlike other New World monkeys, their tail is not used for climbing but as a kind of 'balancing pole' and also as a tool. Their movements in the branches can be very rapid.",
 social_order: "Multi-male/multi-female groups with up to 500 members", lifespan: "15-20 years", latin_name: "Saimiriinae", seeded?: true, sub_family: "Cebidae")
 
-ApiMonkey.create(name: "", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, sub_family: "Callitrichidae")
+ApiMonkey.create(name: "Capuchin Monkeys", height: "12-22in", weight: "2-3lbs",
+locations_of_origin: "Central America and South America as far south as northern Argentina", diet: "Omnivorous - they feed on fruits, nuts and seeds, berries, insects, lizards, rodents and small birds"
+description: "Capuchins are considered the most intelligent New World monkeys[21] and are often used in laboratories. The tufted capuchin is especially noted for its long-term tool usage",
+social_order: "Groups of 10 to 35 individuals.  Usually 1 dominant male, some Capuchin species have 1 dominant female as well.", lifespan: "44 years", latin_name: "Cebinae", seeded?: true, sub_family: "Cebidae")
 
 ApiMonkey.create(name: "", height: "", weight: "",
 locations_of_origin: "", diet: ""
