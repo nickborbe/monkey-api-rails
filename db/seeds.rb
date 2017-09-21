@@ -38,6 +38,26 @@ locations_of_origin: " South and Central American forests", diet: "Howlers eat m
 description: " among the largest of the New World monkeys and one of only a few nest-building monkeys. Fifteen species are currently recognized. Previously classified in the family Cebidae, they are now placed in the family Atelidae. These monkeys are native to South and Central American forests. Threats to howler monkeys include human predation, habitat destruction and being captured for pets or zoo animals. These monkeys are famous for their loud howls, which can travel three miles through dense rainforest. Unlike most New World monkeys, in which one sex remains in natal groups, juveniles of both sexes emigrate from their natal groups,[5] such that howler monkeys could spend the majority of their adult lives in association with unrelated monkeys.",
 social_order: "Groups of six to 15 animals, with one to three adult males and multiple females", lifespan: "15-20 years", latin_name: "Alouattinae", seeded?: true, family: "Atelidae")
 
+ApiMonkey.create(name: "Night Monkey", height: "12-16in", weight: "2lbs",
+locations_of_origin: " Panama, Colombia, Ecuador, Peru, Brazil, Paraguay, Argentina, Bolivia, and Venezuela.", diet: "Mostly fruit, and leaves and insects."
+description: "The only nocturnal monkeys, they are native to Panama and much of tropical South America. Night monkeys constitute one of the few monkey species that are affected by the often deadly human malaria protozoan Plasmodium falciparum, making them useful as non-human primate experimental subjects in malaria research",
+social_order: "Night monkeys live in family groups consisting of a mated pair and their immature offspring. Family groups defend territories by vocal calls and scent marking", lifespan: "20 years", latin_name: "Aotus", seeded?: true, family: "Aotidae")
+
+ApiMonkey.create(name: "", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+ApiMonkey.create(name: "", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+ApiMonkey.create(name: "", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
 ApiMonkey.create(name: "", height: "", weight: "",
 locations_of_origin: "", diet: ""
 description: "",
