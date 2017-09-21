@@ -43,22 +43,22 @@ locations_of_origin: " Panama, Colombia, Ecuador, Peru, Brazil, Paraguay, Argent
 description: "The only nocturnal monkeys, they are native to Panama and much of tropical South America. Night monkeys constitute one of the few monkey species that are affected by the often deadly human malaria protozoan Plasmodium falciparum, making them useful as non-human primate experimental subjects in malaria research",
 social_order: "Night monkeys live in family groups consisting of a mated pair and their immature offspring. Family groups defend territories by vocal calls and scent marking", lifespan: "20 years", latin_name: "Aotus", seeded?: true, family: "Aotidae")
 
-ApiMonkey.create(name: "", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Saki Monkey", height: "1-1.5ft", weight: "4lbs",
+locations_of_origin: "Northern and central South America, extending from the south of Colombia, over Peru, in northern Bolivia. and into the central part of Brazil.", diet: "Sakis are frugivores. Their diet consists of over 90% fruit and is supplemented by a small proportion of leaves, flowers, and insects. Sakis, as well as uakaris, engage in a specialized form of frugivory in which they focus specifically on unripe fruits and seeds."
+description: "Sakis are diurnal animals. They live in the trees of the rain forests and only occasionally go onto the land. They mostly move on all fours, sometimes running in an upright position on the hind legs over the branches, and sometimes jumping long distances. For sleeping they roll themselves cat-like in the branches. They are generally very shy, cautious animals.",
+social_order: "Sakis live in monogamous pairs or small family groups of two to five animals. Juveniles may stay with their parents for up to a year or two after the birth of the next infant. These small groups may come together to form larger congregations.", lifespan: "30 years", latin_name: "Pithecia", seeded?: true, family: "Pitheciidae")
 
-ApiMonkey.create(name: "", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
-
-ApiMonkey.create(name: "", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
-
-ApiMonkey.create(name: "", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+#
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+#
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
