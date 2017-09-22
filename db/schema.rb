@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170921204340) do
+ActiveRecord::Schema.define(version: 20170922152109) do
 
   create_table "api_monkeys", force: :cascade do |t|
     t.datetime "created_at", null: false
@@ -26,6 +26,8 @@ ActiveRecord::Schema.define(version: 20170921204340) do
     t.string "latin_name"
     t.boolean "seeded?"
     t.string "family"
+    t.string "image1"
+    t.string "image2"
   end
 
 end
