@@ -6,9 +6,9 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-# ------------------------------------
-# new world monkeys
-
+# --------------------------------------------------
+# New world monkeys
+# ----------------------------------------------------
 ApiMonkey.create(name: "Marmoset", height: "7.5 in", weight: "9 oz",
 locations_of_origin: "Bolivia, Brazil, Colombia, Ecuador, Paraguay, and Peru.", diet: "Mostly Tree Bark. Also fruit, seeds, flowers, fungi, nectar, snails, lizards, tree frogs, bird eggs, nestlings, and infant mammals.",
 description: "The marmosets are 22 New World monkey species of the genera Callithrix, Cebuella, Callibella, and Mico. All four genera are part of the biological family Callitrichidae. The term marmoset is also used in reference to the Goeldi's marmoset, Callimico goeldii, which is closely related.
@@ -54,7 +54,7 @@ social_order: "Sakis live in monogamous pairs or small family groups of two to f
 
 
 # --------------------------------------------------
-# old world monkeys
+# Old world monkeys
 # ----------------------------------------------------
 
 ApiMonkey.create(name: "Baboon", height: "2.3 ft", weight: "45-65 lbs",
