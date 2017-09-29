@@ -59,10 +59,10 @@ locations_of_origin: "Africa and Arabia", diet: "Their diets are omnivorous, but
 description: "Baboons are some of the largest non-hominoid members of the primate order; only the Mandrill and the Drill are larger". "All baboon species exhibit pronounced sexual dimorphism, usually in size, but also sometimes in colour or canine development. Males of the hamadryas baboon species also have large white manes.",
 social_order: "Most baboons live in hierarchical troops. Group sizes vary between five and 250 animals (often about 50 or so), depending on specific circumstances, especially species and time of year.", lifespan: "35-45 years", latin_name: "Papio", seeded?: true, family: "Cercopithecinae")
 
-ApiMonkey.create(name: "Mangabey", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+# ApiMonkey.create(name: "Mangabey", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
 ApiMonkey.create(name: "Mandrill", height: "", weight: "",
 locations_of_origin: "", diet: ""
