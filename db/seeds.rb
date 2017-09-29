@@ -5,6 +5,10 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+# ------------------------------------
+# new world monkeys
+
 ApiMonkey.create(name: "Marmoset", height: "7.5 in", weight: "9 oz",
 locations_of_origin: "Bolivia, Brazil, Colombia, Ecuador, Paraguay, and Peru.", diet: "Mostly Tree Bark. Also fruit, seeds, flowers, fungi, nectar, snails, lizards, tree frogs, bird eggs, nestlings, and infant mammals.",
 description: "The marmosets are 22 New World monkey species of the genera Callithrix, Cebuella, Callibella, and Mico. All four genera are part of the biological family Callitrichidae. The term marmoset is also used in reference to the Goeldi's marmoset, Callimico goeldii, which is closely related.
@@ -48,10 +52,12 @@ locations_of_origin: "Northern and central South America, extending from the sou
 description: "Sakis are diurnal animals. They live in the trees of the rain forests and only occasionally go onto the land. They mostly move on all fours, sometimes running in an upright position on the hind legs over the branches, and sometimes jumping long distances. For sleeping they roll themselves cat-like in the branches. They are generally very shy, cautious animals.",
 social_order: "Sakis live in monogamous pairs or small family groups of two to five animals. Juveniles may stay with their parents for up to a year or two after the birth of the next infant. These small groups may come together to form larger congregations.", lifespan: "30 years", latin_name: "Pithecia", seeded?: true, family: "Pitheciidae")
 
+# old world monkeys
+
 ApiMonkey.create(name: "Baboon", height: "2.3 ft", weight: "45-65 lbs",
 locations_of_origin: "", diet: "",
 description: "",
-social_order: "", lifespan: "35-45 years", latin_name: "", seeded?: true, family: "Callitrichidae")
+social_order: "", lifespan: "35-45 years", latin_name: "Papio", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Mangabey", height: "", weight: "",
 locations_of_origin: "", diet: ""
