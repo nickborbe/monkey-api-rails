@@ -53,37 +53,37 @@ locations_of_origin: "", diet: "",
 description: "",
 social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
-#
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Mangabey", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Mandrill", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Guenons", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Macaque", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Colobus", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-# ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: ""
-# description: "",
-# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+ApiMonkey.create(name: "Langur", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+ApiMonkey.create(name: "Proboascis Monkey", height: "", weight: "",
+locations_of_origin: "", diet: ""
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
