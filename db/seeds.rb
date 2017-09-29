@@ -48,8 +48,13 @@ locations_of_origin: "Northern and central South America, extending from the sou
 description: "Sakis are diurnal animals. They live in the trees of the rain forests and only occasionally go onto the land. They mostly move on all fours, sometimes running in an upright position on the hind legs over the branches, and sometimes jumping long distances. For sleeping they roll themselves cat-like in the branches. They are generally very shy, cautious animals.",
 social_order: "Sakis live in monogamous pairs or small family groups of two to five animals. Juveniles may stay with their parents for up to a year or two after the birth of the next infant. These small groups may come together to form larger congregations.", lifespan: "30 years", latin_name: "Pithecia", seeded?: true, family: "Pitheciidae")
 
+ApiMonkey.create(name: "Baboon", height: "", weight: "",
+locations_of_origin: "", diet: "",
+description: "",
+social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
 # ApiMonkey.create(name: "", height: "", weight: "",
-# locations_of_origin: "", diet: "",
+# locations_of_origin: "", diet: ""
 # description: "",
 # social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 #
@@ -57,7 +62,27 @@ social_order: "Sakis live in monogamous pairs or small family groups of two to f
 # locations_of_origin: "", diet: ""
 # description: "",
 # social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
-#
+
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
+# ApiMonkey.create(name: "", height: "", weight: "",
+# locations_of_origin: "", diet: ""
+# description: "",
+# social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
+
 # ApiMonkey.create(name: "", height: "", weight: "",
 # locations_of_origin: "", diet: ""
 # description: "",
