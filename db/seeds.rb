@@ -69,7 +69,7 @@ social_order: "Most baboons live in hierarchical troops. Group sizes vary betwee
 
 ApiMonkey.create(name: "Mandrill", height: "2 ft", weight: "40-90 lbs",
 locations_of_origin: "Southern Cameroon, Gabon, Equatorial Guinea, and Congo", diet: ""
-description: "Mandrills are the world's largest monkeys.  Charles Darwin wrote in The Descent of Man that 'no other member in the whole class of mammals is coloured in so extraordinary a manner as the adult male mandrill.",
+description: "Mandrills are the world's largest monkeys.  Charles Darwin wrote in The Descent of Man that 'no other member in the whole class of mammals is coloured in so extraordinary a manner as the adult male mandrill. The mandrill is one of the most sexually dimorphic mammals due to extremely strong sexual selection which favors males in both size and coloration. Males typically weigh 19–37 kg (42–82 lb), with an average mass of 32.3 kg (71 lb). Females weigh roughly half as much as the males and lack the spectacularly colored snout that is characteristic of male Mandrills.",
 social_order: "", lifespan: "30-30 years", genus: "Mandrillus", seeded?: true, family: "Callitrichidae")
 
 ApiMonkey.create(name: "Guenon", height: "", weight: "",
