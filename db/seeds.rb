@@ -63,7 +63,7 @@ locations_of_origin: "", diet: ""
 description: "",
 social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
 
-ApiMonkey.create(name: "Guenons", height: "", weight: "",
+ApiMonkey.create(name: "Guenon", height: "", weight: "",
 locations_of_origin: "", diet: ""
 description: "",
 social_order: "", lifespan: "", latin_name: "", seeded?: true, family: "Callitrichidae")
