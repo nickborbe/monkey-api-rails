@@ -69,8 +69,8 @@ social_order: "Most baboons live in hierarchical troops. Group sizes vary betwee
 
 ApiMonkey.create(name: "Mandrill", height: "2 ft", weight: "40-90 lbs",
 locations_of_origin: "Southern Cameroon, Gabon, Equatorial Guinea, and Congo", diet: ""
-description: "",
-social_order: "", lifespan: "30-30 years", genus: "", seeded?: true, family: "Callitrichidae")
+description: "Mandrills are the world's largest monkeys.  Charles Darwin wrote in The Descent of Man that 'no other member in the whole class of mammals is coloured in so extraordinary a manner as the adult male mandrill.",
+social_order: "", lifespan: "30-30 years", genus: "Mandrillus", seeded?: true, family: "Callitrichidae")
 
 ApiMonkey.create(name: "Guenon", height: "", weight: "",
 locations_of_origin: "", diet: ""
