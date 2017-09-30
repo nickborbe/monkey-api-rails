@@ -88,6 +88,6 @@ description: "langurs are largely gray, with a black face and ears. Externally, 
 social_order: "the social system can be both polygynous and multi-male/multi-female. But, there is evidence that multi-male groups are an atypical situation, and merely a transition period following a takeover during the mating season and such groups soon split into single-male and all-male groups.", lifespan: "30 years", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
 
 ApiMonkey.create(name: "Proboscis Monkey", height: "", weight: "",
-locations_of_origin: "", diet: ""
+locations_of_origin: "The Island of Borneo", diet: "Mostly Fruit."
 description: "",
-social_order: "", lifespan: "", genus: "", seeded?: true, sub_family: "Colobinae")
+social_order: "", lifespan: "", genus: "Nasalis", seeded?: true, sub_family: "Colobinae")
