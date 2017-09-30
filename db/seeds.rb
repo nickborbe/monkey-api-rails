@@ -73,9 +73,9 @@ description: "Guenons are best known for their striking color patterns, such as 
 social_order: "With most guenons, related females stay with each other throughout their lives; a daughter’s social status depends on her mother’s ranking in the group. Males leave their family to join a different group when they reach maturity.", lifespan: "15-20 years", genus: "Cercopithecus", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Macaque", height: "", weight: "25-35 lbs",
-locations_of_origin: "", diet: "Macaques eat mostly fruit, with some seeds, leaves, flowers, and tree bark.  There are some species of macaque, like the crab-eating-macaque, that eat crabs, as the name suggests."
-description: "",
-social_order: "", lifespan: "20 years", genus: "", seeded?: true, family: "Cercopithecinae")
+locations_of_origin: "Everywhere from Japan to India.  They are the most geographically widespread genus of primate - besides humans.", diet: "Macaques eat mostly fruit, with some seeds, leaves, flowers, and tree bark.  There are some species of macaque, like the crab-eating-macaque, that eat crabs, as the name suggests.",
+description: "Twenty-three macaque species are currently recognized, including some of the monkeys best known to non-zoologists, such as the rhesus macaque (M. mulatta), and the barbary macaque, a colony of which lives on the Rock of Gibraltar. Although several species lack tails, and their common names refer to them as apes, these are true monkeys, with no greater relationship to the true apes than any other Old World monkeys. Instead, this comes from an earlier definition of 'ape' that included primates generally.",
+social_order: "Macaques live in large, multi-male/multi-female groups that have an average of 10 to 80 individuals, regardless of habitat type. Groups may number in the hundreds in mountainous areas and areas of high human food subsidization or agricultural habitats. Rhesus macqque groups are characterized by female philopatry and male dispersal; females remain in their natal groups and form dominance hierarchies according to their matrilineal kinship while males emigrate from their natal groups at the beginning of the breeding season shortly before puberty, and may transfer groups throughout their lives in search of mating opportunities. Female rhesus macaques very rarely leave their natal groups.", lifespan: "20 years", genus: "Macaca", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Colobus", height: "", weight: "",
 locations_of_origin: "", diet: ""
