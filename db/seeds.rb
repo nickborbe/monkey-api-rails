@@ -85,7 +85,7 @@ social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a domin
 ApiMonkey.create(name: "Langur", height: "", weight: "",
 locations_of_origin: "", diet: ""
 description: "",
-social_order: "", lifespan: "", genus: "Semnopithecus ", seeded?: true, sub_family: "Colobinae")
+social_order: "", lifespan: "", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
 
 ApiMonkey.create(name: "Proboascis Monkey", height: "", weight: "",
 locations_of_origin: "", diet: ""
