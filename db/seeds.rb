@@ -82,7 +82,7 @@ locations_of_origin: "Mozambique, Rwanda, Tanzania, Uganda, Zambia, East Africa,
 description: "The colobus is the most arboreal of all African monkeys.  It rarely descends to the ground and uses branches as trampolines to get liftoffs for leaps of up to 50 feet. Colobus monkeys leap up and then drop downward, falling with outstretched arms and legs to grab the next branch. Their mantle hair and tails are believed to act as a parachute during these long leaps.",
 social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a dominant male, several females, and their young.", lifespan: "18 years", genus: "Colobus", seeded?: true, sub_family: "Colobinae")
 
-ApiMonkey.create(name: "Langur", height: "", weight: "",
+ApiMonkey.create(name: "Langur", height: "20-28 in", weight: "24-40 lbs",
 locations_of_origin: "", diet: ""
 description: "",
 social_order: "", lifespan: "", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
