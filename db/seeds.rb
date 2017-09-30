@@ -73,7 +73,7 @@ description: "Guenons are best known for their striking color patterns, such as 
 social_order: "With most guenons, related females stay with each other throughout their lives; a daughter’s social status depends on her mother’s ranking in the group. Males leave their family to join a different group when they reach maturity.", lifespan: "15-20 years", genus: "Cercopithecus", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Macaque", height: "", weight: "25-35 lbs",
-locations_of_origin: "", diet: ""
+locations_of_origin: "", diet: "Macaques eat mostly fruit, with some seeds, leaves, flowers, and tree bark.  There are some species of macaque, like the crab-eating-macaque, that eat crabs, as the name suggests."
 description: "",
 social_order: "", lifespan: "20 years", genus: "", seeded?: true, family: "Cercopithecinae")
 
