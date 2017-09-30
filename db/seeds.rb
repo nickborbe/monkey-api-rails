@@ -87,7 +87,7 @@ locations_of_origin: " India, Sri Lanka, Burma, Pakistan and Bangladesh", diet: 
 description: "langurs are largely gray, with a black face and ears. Externally, the various species mainly differ in the darkness of the hands and feet, the overall color and the presence or absence of a crest. Typically all north Indian gray langurs have their tail tips looping towards their head during a casual walk whereas all south Indian and Sri Lankan gray langurs have an inverted U shape or a S tail carriage pattern.",
 social_order: "the social system can be both polygynous and multi-male/multi-female. But, there is evidence that multi-male groups are an atypical situation, and merely a transition period following a takeover during the mating season and such groups soon split into single-male and all-male groups.", lifespan: "30 years", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
 
-ApiMonkey.create(name: "Proboscis Monkey", height: "", weight: "",
+ApiMonkey.create(name: "Proboscis Monkey", height: "1 ft", weight: "40-50 lbs",
 locations_of_origin: "The Island of Borneo", diet: "Mostly Fruit."
-description: "",
-social_order: "", lifespan: "", genus: "Nasalis", seeded?: true, sub_family: "Colobinae")
+description: "It may seem hard to believe, but male proboscis monkeys use their fleshy, pendulous noses to attract mates. Scientists think these outsize organs create an echo chamber that amplifies the monkey’s call, impressing females and intimidating rival males.",
+social_order: "Proboscis monkeys generally live in groups composed of one adult male, some adult females and their offspring.", lifespan: "20-25 years", genus: "Nasalis", seeded?: true, sub_family: "Colobinae")
