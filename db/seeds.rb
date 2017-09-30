@@ -80,7 +80,7 @@ social_order: "Macaques live in large, multi-male/multi-female groups that have 
 ApiMonkey.create(name: "Colobus", height: "", weight: "",
 locations_of_origin: "", diet: ""
 description: "",
-social_order: "", lifespan: "", genus: "", seeded?: true, family: "Callitrichidae")
+social_order: "", lifespan: "", genus: "Colobus", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Langur", height: "", weight: "",
 locations_of_origin: "", diet: ""
