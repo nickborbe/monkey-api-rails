@@ -77,10 +77,10 @@ locations_of_origin: "Everywhere from Japan to India.  They are the most geograp
 description: "Twenty-three macaque species are currently recognized, including some of the monkeys best known to non-zoologists, such as the rhesus macaque (M. mulatta), and the barbary macaque, a colony of which lives on the Rock of Gibraltar. Although several species lack tails, and their common names refer to them as apes, these are true monkeys, with no greater relationship to the true apes than any other Old World monkeys. Instead, this comes from an earlier definition of 'ape' that included primates generally.",
 social_order: "Macaques live in large, multi-male/multi-female groups that have an average of 10 to 80 individuals, regardless of habitat type. Groups may number in the hundreds in mountainous areas and areas of high human food subsidization or agricultural habitats. Rhesus macqque groups are characterized by female philopatry and male dispersal; females remain in their natal groups and form dominance hierarchies according to their matrilineal kinship while males emigrate from their natal groups at the beginning of the breeding season shortly before puberty, and may transfer groups throughout their lives in search of mating opportunities. Female rhesus macaques very rarely leave their natal groups.", lifespan: "20 years", genus: "Macaca", seeded?: true, family: "Cercopithecinae")
 
-ApiMonkey.create(name: "Colobus", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", genus: "Colobus", seeded?: true, family: "Cercopithecinae")
+ApiMonkey.create(name: "Colobus", height: "2 ft", weight: "15-30 lbs",
+locations_of_origin: "Mozambique, Rwanda, Tanzania, Uganda, Zambia, East Africa, West/Central Africa, Congo, Kilimanjaro, Virunga, Cameroon", diet: "Colobus monkeys eat leaves almost exclusively.  Their unique digestive system allows them to eat many leaves that are toxic to other animals."
+description: "The colobus is the most arboreal of all African monkeys.  It rarely descends to the ground and uses branches as trampolines to get liftoffs for leaps of up to 50 feet. Colobus monkeys leap up and then drop downward, falling with outstretched arms and legs to grab the next branch. Their mantle hair and tails are believed to act as a parachute during these long leaps.",
+social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a dominant male, several females, and their young.", lifespan: "18 years", genus: "Colobus", seeded?: true, family: "Cercopithecinae")
 
 ApiMonkey.create(name: "Langur", height: "", weight: "",
 locations_of_origin: "", diet: ""
