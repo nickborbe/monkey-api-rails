@@ -83,9 +83,9 @@ description: "The colobus is the most arboreal of all African monkeys.  It rarel
 social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a dominant male, several females, and their young.", lifespan: "18 years", genus: "Colobus", seeded?: true, sub_family: "Colobinae")
 
 ApiMonkey.create(name: "Langur", height: "20-28 in", weight: "24-40 lbs",
-locations_of_origin: "", diet: ""
+locations_of_origin: " India, Sri Lanka, Burma, Pakistan and Bangladesh", diet: "The majority of the langurs' diet is leaves. They have two stomach compartments to aid digestion of a high fibrous diet"
 description: "langurs are largely gray, with a black face and ears. Externally, the various species mainly differ in the darkness of the hands and feet, the overall color and the presence or absence of a crest. Typically all north Indian gray langurs have their tail tips looping towards their head during a casual walk whereas all south Indian and Sri Lankan gray langurs have an inverted U shape or a S tail carriage pattern.",
-social_order: "", lifespan: "", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
+social_order: "the social system can be both polygynous and multi-male/multi-female. But, there is evidence that multi-male groups are an atypical situation, and merely a transition period following a takeover during the mating season and such groups soon split into single-male and all-male groups.", lifespan: "30 years", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
 
 ApiMonkey.create(name: "Proboscis Monkey", height: "", weight: "",
 locations_of_origin: "", diet: ""
