@@ -87,7 +87,7 @@ locations_of_origin: "", diet: ""
 description: "",
 social_order: "", lifespan: "", genus: "Semnopithecus", seeded?: true, sub_family: "Colobinae")
 
-ApiMonkey.create(name: "Proboascis Monkey", height: "", weight: "",
+ApiMonkey.create(name: "Proboscis Monkey", height: "", weight: "",
 locations_of_origin: "", diet: ""
 description: "",
 social_order: "", lifespan: "", genus: "", seeded?: true, sub_family: "Colobinae")
