@@ -72,10 +72,10 @@ locations_of_origin: "Southern Cameroon, Gabon, Equatorial Guinea, and Congo", d
 description: "Mandrills are the world's largest monkeys.  Charles Darwin wrote in The Descent of Man that 'no other member in the whole class of mammals is coloured in so extraordinary a manner as the adult male mandrill. The mandrill is one of the most sexually dimorphic mammals due to extremely strong sexual selection which favors males in both size and coloration. Males typically weigh 19–37 kg (42–82 lb), with an average mass of 32.3 kg (71 lb). Females weigh roughly half as much as the males and lack the spectacularly colored snout that is characteristic of male Mandrills.",
 social_order: "Mandrills seem to live in very large, stable groups called 'hordes'. A horde can number in the hundreds.  It is not uncommon for a horde to have as many as 600 individuals and less commonly, as many as 900. It is difficult to accurately estimate horde size in the forest, but filming a horde crossing a gap between two forest patches or crossing a road is a reliable way of estimating the total number. The largest horde verifiably observed in this way contained over 1,300 individuals, in Lopé National Park, Gabon — it was the largest aggregation of nonhuman primates ever recorded. These hordes are made of adult females and their dependent offspring. Males live a solitary lifestyle, and only enter hordes when females are receptive to mating, which lasts three months each year. All-male bachelor groups are not known to exist.", lifespan: "20-30 years", genus: "Mandrillus", seeded?: true, family: "Callitrichidae")
 
-ApiMonkey.create(name: "Guenon", height: "", weight: "",
-locations_of_origin: "", diet: ""
-description: "",
-social_order: "", lifespan: "", genus: "", seeded?: true, family: "Cercopithecidae")
+ApiMonkey.create(name: "Guenon", height: "1-2 ft in", weight: "10-30 lbs",
+locations_of_origin: "Sub-Saharan Africa", diet: "Fruits, seeds, and insects, and occasionally, small reptiles or mammals."
+description: "Guenons are best known for their striking color patterns, such as hip stripes, brow bands, or a white nose spot or band. Facial adornments can also include a throat ruff, beard, or mustache. They use their cheek pouches to store extra food as they forage. The pouches can hold almost as much as their stomach can!",
+social_order: "With most guenons, related females stay with each other throughout their lives; a daughter’s social status depends on her mother’s ranking in the group. Males leave their family to join a different group when they reach maturity.", lifespan: "15-20 years", genus: "Cercopithecus", seeded?: true, family: "Callitrichidae")
 
 ApiMonkey.create(name: "Macaque", height: "", weight: "",
 locations_of_origin: "", diet: ""
