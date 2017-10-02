@@ -25,7 +25,7 @@ ApiMonkey.create(name: "Squirrel Monkey", height: "1 ft", weight: "0.5 lbs",
 locations_of_origin: "Amazon, Costa Rica, Panama", diet: "Mostly fruit and insects",
 description: "Squirrel monkey fur is short and close, coloured black at the shoulders and yellowish orange on its back and extremities. Their throats and ears are white, and their mouths are black. The upper parts of their heads are hairy. This black-and-white face gives them the name 'death's head monkey' in several Germanic languages.
 Like most of their New World monkey relatives, squirrel monkeys are diurnal and arboreal. Unlike other New World monkeys, their tail is not used for climbing but as a kind of 'balancing pole' and also as a tool. Their movements in the branches can be very rapid.",
-social_order: "Multi-male/multi-female groups with up to 500 members", lifespan: "15-20 years", genus: "Saimiri", seeded?: true, sub_family: "Cebidae", image1: "", image2:"")
+social_order: "Multi-male/multi-female groups with up to 500 members", lifespan: "15-20 years", genus: "Saimiri", seeded?: true, sub_family: "Cebidae", image1: "squirrel-monkey.jpg", image2:"squirrel-monkey2.jpg")
 
 ApiMonkey.create(name: "Capuchin Monkey", height: "12-22 in", weight: "2-3 lbs",
 locations_of_origin: "Central America and South America as far south as northern Argentina", diet: "Omnivorous - they feed on fruits, nuts and seeds, berries, insects, lizards, rodents and small birds",
