@@ -45,7 +45,7 @@ social_order: "Groups of six to 15 animals, with one to three adult males and mu
 ApiMonkey.create(name: "Night Monkey", height: "12-16 in", weight: "2 lbs",
 locations_of_origin: " Panama, Colombia, Ecuador, Peru, Brazil, Paraguay, Argentina, Bolivia, and Venezuela.", diet: "Mostly fruit, and leaves and insects.",
 description: "The only nocturnal monkeys, they are native to Panama and much of tropical South America. Night monkeys constitute one of the few monkey species that are affected by the often deadly human malaria protozoan Plasmodium falciparum, making them useful as non-human primate experimental subjects in malaria research",
-social_order: "Night monkeys live in family groups consisting of a mated pair and their immature offspring. Family groups defend territories by vocal calls and scent marking", lifespan: "20 years", genus: "Aotus", seeded?: true, sub_family: "Aotidae", image1: "", image2:"")
+social_order: "Night monkeys live in family groups consisting of a mated pair and their immature offspring. Family groups defend territories by vocal calls and scent marking", lifespan: "20 years", genus: "Aotus", seeded?: true, sub_family: "Aotidae", image1: "night-monkey.jpg", image2:"")
 
 ApiMonkey.create(name: "Saki Monkey", height: "1-1.5 ft", weight: "4 lbs",
 locations_of_origin: "Northern and central South America, extending from the south of Colombia, over Peru, in northern Bolivia. and into the central part of Brazil.", diet: "Sakis are frugivores. Their diet consists of over 90% fruit and is supplemented by a small proportion of leaves, flowers, and insects. Sakis, as well as uakaris, engage in a specialized form of frugivory in which they focus specifically on unripe fruits and seeds.",
