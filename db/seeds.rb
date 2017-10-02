@@ -60,7 +60,7 @@ social_order: "Sakis live in monogamous pairs or small family groups of two to f
 ApiMonkey.create(name: "Baboon", height: "2.3 ft", weight: "45-65 lbs",
 locations_of_origin: "Africa and Arabia", diet: "Their diets are omnivorous, but mostly herbivorous, yet they eat insects and occasionally prey on fish, trout and salmon if available, shellfish, hares, birds, vervet monkeys, and small antelope.",
 description: "Baboons are some of the largest non-hominoid members of the primate order; only the Mandrill and the Drill are larger. All baboon species exhibit pronounced sexual dimorphism, usually in size, but also sometimes in colour or canine development. Males of the hamadryas baboon species also have large white manes.",
-social_order: "Most baboons live in hierarchical troops. Group sizes vary between five and 250 animals (often about 50 or so), depending on specific circumstances, especially species and time of year.", lifespan: "35-45 years", genus: "Papio", seeded?: true, sub_family: "Cercopithecinae", image1: "", image2:"")
+social_order: "Most baboons live in hierarchical troops. Group sizes vary between five and 250 animals (often about 50 or so), depending on specific circumstances, especially species and time of year.", lifespan: "35-45 years", genus: "Papio", seeded?: true, sub_family: "Cercopithecinae", image1: "mandrill.jpg", image2:"mandrill2.jpg")
 
 ApiMonkey.create(name: "Mandrill", height: "2 ft", weight: "40-90 lbs",
 locations_of_origin: "Southern Cameroon, Gabon, Equatorial Guinea, and Congo", diet: "the typical diet of a Mandrill is composed of fruit (50.7%), seeds (26.0%), leaves (8.2%), pith (6.8%), flowers (2.7%), and animal-derived foods (4.1%), with other foods making up the remaining (1.4%).",
