@@ -40,7 +40,7 @@ social_order: "Spider monkeys form loose groups of 15 to 25 individuals,[21] but
 ApiMonkey.create(name: "Howler Monkey", height: "22-36 in", weight: "22 lbs",
 locations_of_origin: " South and Central American forests", diet: "Howlers eat mainly top canopy leaves, together with fruit, buds, flowers, and nuts.",
 description: " among the largest of the New World monkeys and one of only a few nest-building monkeys. Fifteen species are currently recognized. Previously classified in the family Cebidae, they are now placed in the family Atelidae. These monkeys are native to South and Central American forests. Threats to howler monkeys include human predation, habitat destruction and being captured for pets or zoo animals. These monkeys are famous for their loud howls, which can travel three miles through dense rainforest. Unlike most New World monkeys, in which one sex remains in natal groups, juveniles of both sexes emigrate from their natal groups,[5] such that howler monkeys could spend the majority of their adult lives in association with unrelated monkeys.",
-social_order: "Groups of six to 15 animals, with one to three adult males and multiple females", lifespan: "15-20 years", genus: "Alouatta", seeded?: true, sub_family: "Atelidae", image1: "howler-monkey.jpg", image2:"")
+social_order: "Groups of six to 15 animals, with one to three adult males and multiple females", lifespan: "15-20 years", genus: "Alouatta", seeded?: true, sub_family: "Atelidae", image1: "howler-monkey.jpg", image2:"howler-monkey2.jpg")
 
 ApiMonkey.create(name: "Night Monkey", height: "12-16 in", weight: "2 lbs",
 locations_of_origin: " Panama, Colombia, Ecuador, Peru, Brazil, Paraguay, Argentina, Bolivia, and Venezuela.", diet: "Mostly fruit, and leaves and insects.",
