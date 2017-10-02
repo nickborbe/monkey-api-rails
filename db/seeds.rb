@@ -30,7 +30,7 @@ social_order: "Multi-male/multi-female groups with up to 500 members", lifespan:
 ApiMonkey.create(name: "Capuchin Monkey", height: "12-22 in", weight: "2-3 lbs",
 locations_of_origin: "Central America and South America as far south as northern Argentina", diet: "Omnivorous - they feed on fruits, nuts and seeds, berries, insects, lizards, rodents and small birds",
 description: "Capuchins are often considered the most intelligent New World monkeys and are often used in laboratories. The tufted capuchin is especially noted for its long-term tool usage",
-social_order: "Groups of 10 to 35 individuals.  Usually 1 dominant male, some Capuchin species have 1 dominant female as well.", lifespan: "22 years", genus: "Cebus", seeded?: true, sub_family: "Cebidae", image1: "", image2:"")
+social_order: "Groups of 10 to 35 individuals.  Usually 1 dominant male, some Capuchin species have 1 dominant female as well.", lifespan: "22 years", genus: "Cebus", seeded?: true, sub_family: "Cebidae", image1: "capuchin-monkey.jpg", image2:"capuchin2.jpg")
 
 ApiMonkey.create(name: "Spider Monkey", height: "26 in", weight: "20 lbs",
 locations_of_origin: "tropical forests of Central and South America, from southern Mexico to Brazil", diet: "Omnivores",
