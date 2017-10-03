@@ -90,4 +90,4 @@ social_order: "the social system can be both polygynous and multi-male/multi-fem
 ApiMonkey.create(name: "Proboscis Monkey", height: "1 ft", weight: "40-50 lbs",
 locations_of_origin: "The Island of Borneo", diet: "Mostly Fruit.",
 description: "It may seem hard to believe, but male proboscis monkeys use their fleshy, pendulous noses to attract mates. Scientists think these outsize organs create an echo chamber that amplifies the monkey’s call, impressing females and intimidating rival males.",
-social_order: "Proboscis monkeys generally live in groups composed of one adult male, some adult females and their offspring.", lifespan: "20-25 years", genus: "Nasalis", seeded?: true, sub_family: "Colobinae")
+social_order: "Proboscis monkeys generally live in groups composed of one adult male, some adult females and their offspring.", lifespan: "20-25 years", genus: "Nasalis", seeded?: true, sub_family: "Colobinae", image1: "proboscis.jpg", image2:"proboscis2.jpg")
