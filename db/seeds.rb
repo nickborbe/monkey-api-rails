@@ -70,7 +70,7 @@ social_order: "Mandrills seem to live in very large, stable groups called 'horde
 ApiMonkey.create(name: "Guenon", height: "1-2 ft in", weight: "10-30 lbs",
 locations_of_origin: "Sub-Saharan Africa", diet: "Fruits, seeds, and insects, and occasionally, small reptiles or mammals.",
 description: "Guenons are best known for their striking color patterns, such as hip stripes, brow bands, or a white nose spot or band. Facial adornments can also include a throat ruff, beard, or mustache. They use their cheek pouches to store extra food as they forage. The pouches can hold almost as much as their stomach can!",
-social_order: "With most guenons, related females stay with each other throughout their lives; a daughter’s social status depends on her mother’s ranking in the group. Males leave their family to join a different group when they reach maturity.", lifespan: "15-20 years", genus: "Cercopithecus", seeded?: true, sub_family: "Cercopithecinae", image1: "", image2:"")
+social_order: "With most guenons, related females stay with each other throughout their lives; a daughter’s social status depends on her mother’s ranking in the group. Males leave their family to join a different group when they reach maturity.", lifespan: "15-20 years", genus: "Cercopithecus", seeded?: true, sub_family: "Cercopithecinae", image1: "guenon.jpg", image2:"guenon2.jpg")
 
 ApiMonkey.create(name: "Macaque", height: "", weight: "25-35 lbs",
 locations_of_origin: "Everywhere from Japan to India.  They are the most geographically widespread genus of primate - besides humans.", diet: "Macaques eat mostly fruit, with some seeds, leaves, flowers, and tree bark.  There are some species of macaque, like the crab-eating-macaque, that eat crabs, as the name suggests.",
