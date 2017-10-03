@@ -80,7 +80,7 @@ social_order: "Macaques live in large, multi-male/multi-female groups that have 
 ApiMonkey.create(name: "Colobus", height: "2 ft", weight: "15-30 lbs",
 locations_of_origin: "Mozambique, Rwanda, Tanzania, Uganda, Zambia, East Africa, West/Central Africa, Congo, Kilimanjaro, Virunga, Cameroon", diet: "Colobus monkeys eat leaves almost exclusively.  Their unique digestive system allows them to eat many leaves that are toxic to other animals.",
 description: "The colobus is the most arboreal of all African monkeys.  It rarely descends to the ground and uses branches as trampolines to get liftoffs for leaps of up to 50 feet. Colobus monkeys leap up and then drop downward, falling with outstretched arms and legs to grab the next branch. Their mantle hair and tails are believed to act as a parachute during these long leaps.",
-social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a dominant male, several females, and their young.", lifespan: "18 years", genus: "Colobus", seeded?: true, sub_family: "Colobinae", image1: "", image2:"")
+social_order: "Colobus monkeys live in troops of about 5 to 10 animals—a dominant male, several females, and their young.", lifespan: "18 years", genus: "Colobus", seeded?: true, sub_family: "Colobinae", image1: "colobus.jpg", image2:"colobus2.jpg")
 
 ApiMonkey.create(name: "Langur", height: "20-28 in", weight: "24-40 lbs",
 locations_of_origin: " India, Sri Lanka, Burma, Pakistan and Bangladesh", diet: "The majority of the langurs' diet is leaves. They have two stomach compartments to aid digestion of a high fibrous diet",
