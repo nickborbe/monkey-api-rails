@@ -11,10 +11,10 @@ class ApiMonkeysController < ApplicationController
 
   # GET /api_monkeys/1
   # GET /api_monkeys/1.json
-  # def show
-  #   the_monkey = ApiMonkey.find_by(id: params[:id])
-  #   render json: the_monkey
-  # end
+  def show
+    the_monkey = ApiMonkey.find_by(id: params[:id])
+    render json: the_monkey
+  end
   #not sure whether to have this, might handle it with angular
 
   # GET /api_monkeys/new
