@@ -74,6 +74,8 @@ class ApiMonkeysController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def api_monkey_params
-      params.require(:api_monkey).permit(:name, :height, :weight, :locations_of_origin, :diet, :description, :social_order)
+      params.require(:api_monkey).permit(:name, :height, :weight, :locations_of_origin,
+        :diet, :description, :social_order, :lifespan, :seeded?, :image1, :image2,
+        :genus, :sub_family)
     end
 end
