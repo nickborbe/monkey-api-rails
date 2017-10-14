@@ -45,7 +45,8 @@ class ApiMonkeysController < ApplicationController
       image1: params[:image1] ,
       image2: params[:image2] ,
       genus: params[:genus] ,
-      sub_family: params[:sub_family]
+      sub_family: params[:sub_family],
+      seeded?: false
       )
 
       if api_monkey.save
