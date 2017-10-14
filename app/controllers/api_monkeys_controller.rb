@@ -29,23 +29,23 @@ class ApiMonkeysController < ApplicationController
   # POST /api_monkeys
   # POST /api_monkeys.json
   def create
-    @api_monkey = ApiMonkey.new(
-      name: params[:name],
-      height: params[:height] ,
-      weight: params[:weight] ,
-      locations_of_origin: params[:locations_of_origin] ,
-      diet: params[:diet] ,
-      description: params[:description] ,
-      social_order: params[:social_order] ,
-      lifespan: params[:lifespan] ,
-      image1: params[:image1] ,
-      image2: params[:image2] ,
-      genus: params[:genus] ,
-      sub_family: params[:sub_family]
-    )
+    # name: params[:name],
+    # height: params[:height] ,
+    # weight: params[:weight] ,
+    # locations_of_origin: params[:locations_of_origin] ,
+    # diet: params[:diet] ,
+    # description: params[:description] ,
+    # social_order: params[:social_order] ,
+    # lifespan: params[:lifespan] ,
+    # image1: params[:image1] ,
+    # image2: params[:image2] ,
+    # genus: params[:genus] ,
+    # sub_family: params[:sub_family]
+    # )
 
+    @api_monkey = ApiMonkey.new(api_monkey_params)
 
-
+    respond_to do |format|
       if @api_monkey.save
         # format.html { redirect_to @api_monkey, notice: 'Api monkey was successfully created.' }
         format.json { render :show, status: :created, location: @api_monkey }
@@ -53,7 +53,7 @@ class ApiMonkeysController < ApplicationController
         # format.html { render :new }
         format.json { render json: @api_monkey.errors, status: :unprocessable_entity }
       end
-
+    end
   end
 
   # PATCH/PUT /api_monkeys/1
