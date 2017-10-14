@@ -18,9 +18,9 @@ class ApiMonkeysController < ApplicationController
   #not sure whether to have this, might handle it with angular
 
   # GET /api_monkeys/new
-  def new
-    @api_monkey = ApiMonkey.new
-  end
+  # def new
+  #   @api_monkey = ApiMonkey.new
+  # end
 
   # GET /api_monkeys/1/edit
   def edit
