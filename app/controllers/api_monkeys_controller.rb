@@ -1,5 +1,5 @@
 class ApiMonkeysController < ApplicationController
-  before_action :set_api_monkey, only: [:show, :edit, :update, :destroy]
+  # before_action :set_api_monkey, only: [:show, :edit, :update, :destroy]
 
   # GET /api_monkeys
   # GET /api_monkeys.json
@@ -23,15 +23,12 @@ class ApiMonkeysController < ApplicationController
   # end
 
   # GET /api_monkeys/1/edit
-  def edit
-  end
+  # def edit
+  # end
 
   # POST /api_monkeys
   # POST /api_monkeys.json
   def create
-
-    puts params
-
 
     api_monkey = ApiMonkey.new(
       name: params[:name],
